@@ -1,0 +1,25 @@
+{
+  "users": [{
+    "success": true,
+    "username": "admin",
+    "password": "admin",
+    "session": "1234",
+    "type": "admin"
+  },{
+    "success": true,
+    "username": "user",
+    "password": "user",
+    "session": "aaaa",
+    "type": "user"
+  }],
+  "sessions": [
+    {
+      "success": true,
+      "session": "1234"
+    },
+    {
+      "success": true,
+      "session": "aaaa"
+    }
+  ]
+}
